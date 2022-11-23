@@ -1,6 +1,5 @@
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Graph Transformation for Software Engineers
 description: On these pages we provide a number of resources for the book, including general information, expert opinions, a table of contents and downloadable authors copy, exercises, lecture slides and a discussion forum for comments and questions.
-
