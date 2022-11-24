@@ -1,3 +1,7 @@
+layout: page
+title: "Exercises"
+permalink: /GT4SE/
+
 # Exercises
 
 This collection of [exercises](GTSEBookExercisesEN2.docx) for some of the material in the book represents a first collection, to which we plan to add in the future. Solutions for educators are available on request
