@@ -1,7 +1,9 @@
 # Graph Transformation for Software Engineers (GT4SE)
 ## With Applications to Model-Based Development and Domain-Specific Language Engineering
-### Reiko Heckel, University of Leicester, UK
-### Gabriele Taentzer, Philipps-Universität Marburg, Germany
+
+*Reiko Heckel, University of Leicester, UK*
+
+*Gabriele Taentzer, Philipps-Universität Marburg, Germany*
 
 On these pages we provide a number of resources for the book, including general information, expert opinions, a table of contents and downloadable authors copy, exercises, lecture slides and a discussion forum for comments and questions.
 
