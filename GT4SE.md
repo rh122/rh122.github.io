@@ -1,4 +1,8 @@
-# Graph Transformation for Software Engineers (GT4SE)
+layout: page
+title: "GT4SE"
+permalink: /
+
+# Graph Transformation for Software Engineers
 ## With Applications to Model-Based Development and Domain-Specific Language Engineering
 
 *Reiko Heckel, University of Leicester, UK*
