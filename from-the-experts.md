@@ -1,3 +1,7 @@
+layout: page
+title: "From the Experts"
+permalink: /GT4SE/
+
 # From the Experts
 
 “This book … is the first comprehensive and systematic presentation of graph-based modelling and applica- tions to the practice of software engineering. It can be of use in teaching, to present the foundations of soft- ware modelling and verification. It is also a reference book for researchers who are active in software mod- elling. … I fully share the authors’ point that graph transformations are an extremely powerful and tremen- dously useful tool that can empower software engineers and help them to develop better and higher quality software. This book is a decisive step in this direction.”
