@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /GT4SE/
+
 # Privacy Policy
 
 ## Who we are
