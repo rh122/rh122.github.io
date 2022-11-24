@@ -1,3 +1,7 @@
+layout: page
+title: "About the Authors"
+permalink: /GT4SE/
+
 # About the Authors
 
 [Prof. Dr.-Ing. Reiko Heckel](https://www.cs.le.ac.uk/people/rh122/) is a member of the School of Informatics at the University of Leicester.
