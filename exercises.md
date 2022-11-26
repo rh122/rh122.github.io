@@ -79,9 +79,12 @@ Examine your solution to the Elevator Control system through critical pair analy
 
 ## Mobile Network: Conflicts, Application Conditions and Constraints
 In this assignment you shall develop a graph transformation system with constraints and application conditions modeling a network with mobile devices.
-[image:44AC3FF4-42CB-46AA-A404-DE62A0A9638B-526-0001F6ABEEADE7A9/unknown.png]
 
-In the Figure above on the left, the type graph of our system is shown, a nomadic wireless network like a mobile phone network or wireless LAN. Stations linked by a geographic neighborhood relation, form the static part of the network. To communicate with mobile devices, signals are broadcast and connections may be established. 
+Type ad Instance Graph:
+
+![Type ad Instance Graph](Picture1_TG-G.png)
+
+In the figure above on the left, the type graph of our system is shown, a nomadic wireless network like a mobile phone network or wireless LAN. Stations linked by a geographic neighborhood relation, form the static part of the network. To communicate with mobile devices, signals are broadcast and connections may be established. 
 The idea is that a Device receiving the signal of a Station (because it is in range) may establish a connection. On the right, Fig. 1 shows a sample instance graph over the type graph, a state with two stations and two devices with the right device receiving the signal of and maintaining a connection with the right-hand side station.
 
 ### Task 1 
@@ -115,20 +118,18 @@ Consider a class model that adds a bonus card to the shop, and update the activi
 
 ## Service Matching for Book and Video Sales
 Assume the following ontology for selling books and videos. A service requestor searches for the following three services and finds a provider that offers the seven services shown below. Specify which of the three services requirements the provider can satisfy, using incremental matching where needed. Justify your answers by showing how the necessary mappings are defined or which mappings may not exist, and why.
+
 Ontology:
 
-
-[image:E7241292-AD77-46B8-A92A-4759DB3FBD5D-526-0001F6ABEE355452/unknown.png]
+![Ontology](Picture2_Ontology.png)
 
 Requested Services:
 
-
-[image:3CDDD786-FA41-493E-A305-0A34D54DFE4A-526-0001F6ABEDC97DAF/unknown.png]
+![Requested Services](Picture3_RequestedServices.png)
 
 Provided Services:
 
-
-[image:BAB2D11A-691B-4FD6-AC96-236BF80957A6-526-0001F6ABED6B74FC/unknown.png]
+![Provided Services](Picture4_ProvidedServices.png)
 
 ## ER Diagrams: Metamodel and Grammar
 In analogy to the procedure in Chapter 10, design a domain-specific modelling language for Entity Relationship Diagrams. Proceed with the following steps:
@@ -169,11 +170,14 @@ Specify the Refactoring Collapse Hierarchy, as it is defined below:
 
 ## Class Diagram: Detecting Changes
 The following two class diagrams are given. Specify an editing script that describes the changes made. Possible editing operations include the refactorings from Chapter 11 and any atomic changes to the model that may be required.
+
 Class diagram before the change:
-[image:596DA2A3-3900-4C1C-BFAC-87331227B30B-526-0001F6ABED05FE7D/unknown.png]
+
+![Class diagram before the change](Picture5_Class-diagram-before-the-change.png)
+
 Class diagram after the change:
- 
-[image:C67EBB01-1716-41DB-AE95-E1FFE55A4A37-526-0001F6ABEC9C1876/unknown.png]
+
+![Class diagram after the change](Picture6_Class-diagram-after-the-change.png)
 
 _[1]_ See  [http://groove.sourceforge.net/groove-index.html](http://groove.sourceforge.net/groove-index.html)  and demo videos on creating type graphs  [https://www.youtube.com/watch?v=LTGRS3AYSSM](https://www.youtube.com/watch?v=LTGRS3AYSSM)  and rules  [https://www.youtube.com/watch?v=R2beaSQ9-NM](https://www.youtube.com/watch?v=R2beaSQ9-NM) 
  
