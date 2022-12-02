@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Table of Contents"
 permalink: /GT4SE/
+---
 
 # Table of Contents
 
