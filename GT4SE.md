@@ -1,6 +1,8 @@
+---
 layout: page
 title: "GT4SE"
 permalink: /GT4SE/
+---
 
 # Graph Transformation for Software Engineers
 ## With Applications to Model-Based Development and Domain-Specific Language Engineering
