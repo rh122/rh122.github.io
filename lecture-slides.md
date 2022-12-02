@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Slides and Videos"
 permalink: /GT4SE/
+---
 
 # Slides and Videos
 
