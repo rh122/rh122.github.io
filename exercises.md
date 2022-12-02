@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Exercises"
 permalink: /GT4SE/
+---
 
 # Exercises
 
