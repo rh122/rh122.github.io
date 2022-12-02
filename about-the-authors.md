@@ -1,6 +1,8 @@
+---
 layout: page
 title: "About the Authors"
 permalink: /GT4SE/
+---
 
 # About the Authors
 
