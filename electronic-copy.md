@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Electronic Copy"
 permalink: /GT4SE/
+---
 
 # Download PDF or Buy From Springer
 
