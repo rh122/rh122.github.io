@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About the Authors"
-permalink: /GT4SE/
+permalink: /GT4SE/authors/
 ---
 
 # About the Authors
