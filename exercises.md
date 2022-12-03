@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Exercises"
-permalink: /GT4SE/
+permalink: /GT4SE/exercises/
 ---
 
 # Exercises
