@@ -1,6 +1,4 @@
-remote_theme: BDHU/minimalist
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-yamt
 title: Graph Transformation for Software Engineers
 description: On these pages we provide a number of resources for the book, including general information, expert opinions, a table of contents and downloadable authors copy, exercises, lecture slides and a discussion forum for comments and questions.
 logo: gt4se-logo-1.png 
