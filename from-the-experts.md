@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "From the Experts"
-permalink: /GT4SE/
+permalink: /GT4SE/experts/
 ---
 
 # From the Experts
