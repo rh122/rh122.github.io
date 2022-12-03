@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy"
-permalink: /GT4SE/
+permalink: /GT4SE/privacy/
 ---
 
 # Privacy Policy
