@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Table of Contents"
-permalink: /GT4SE/
+permalink: /GT4SE/toc/
 ---
 
 # Table of Contents
