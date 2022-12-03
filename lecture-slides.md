@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Slides and Videos"
-permalink: /GT4SE/
+permalink: /GT4SE/slides/
 ---
 
 # Slides and Videos
