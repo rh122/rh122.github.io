@@ -1,3 +1,11 @@
 theme: minima
 description: On these pages we provide a number of resources for the book, including general information, expert opinions, a table of contents and downloadable authors copy, exercises, lecture slides and a discussion forum for comments and questions.
 logo: gt4se-logo-1.png 
+header_pages:
+  - index.md
+  - experts.md
+  - contents.md
+  - copy.md
+  - exercises.md
+  - slides.md
+  - authors.md
