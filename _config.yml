@@ -3,9 +3,9 @@ description: On these pages we provide a number of resources for the book, inclu
 logo: gt4se-logo-1.png 
 header_pages:
   - index.md
-  - experts.md
-  - contents.md
-  - copy.md
+  - from-the-experts.md
+  - table-of-contents.md
+  - electronic-copy.md
   - exercises.md
-  - slides.md
-  - authors.md
+  - lecture-slides.md
+  - about-the-authors.md
