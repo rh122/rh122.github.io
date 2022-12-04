@@ -6,16 +6,16 @@ permalink: /GT4SE/exercises/
 
 # Exercises
 
-This collection of [exercises](GTSEBookExercisesEN2.docx) for some of the material in the book represents a first collection, to which we plan to add in the future. Solutions for educators are available on request
+This collection of exercises for some of the material in the book represents a first collection, to which we plan to add in the future. Solutions for educators are available on request
 
 Please post your own exercises or ask questions in the comments below.
 
 ## A Simple Stack
-Use a tool such as Groove_[1]_ or Henshin_[2]_ to model a stack as a simple data structure with associated operations push and pop. Since we are interested in system states and state transitions, we will neglect the operation top at this point, where the underlying data structure does not change.
+Use a tool such as [Groove](https://groove.ewi.utwente.nl) or [Henshin](https://www.eclipse.org/henshin/) to model a stack as a simple data structure with associated operations push and pop. Since we are interested in system states and state transitions, we will neglect the operation top at this point, where the underlying data structure does not change.
 Simulate the use of the stack you have modelled manually. In Groove, you can also have part of the state space generated automatically.
 
 ## Leader Election
-Create a graph transformation system for the Leader Election Problem_[3]_.
+Create a graph transformation system for the [Leader Election Problem](https://en.wikipedia.org/wiki/Leader_election).
 
 ### Definition
 In a distributed system several processes are connected in a unidirectional ring. These processes can only communicate by exchanging messages. To coordinate shared tasks, however, a coordinator must be appointed.
@@ -181,9 +181,7 @@ Class diagram after the change:
 
 ![Class diagram after the change](Picture6_Class-diagram-after-the-change.png)
 
-_[1]_ See  [http://groove.sourceforge.net/groove-index.html](http://groove.sourceforge.net/groove-index.html)  and demo videos on creating type graphs  [https://www.youtube.com/watch?v=LTGRS3AYSSM](https://www.youtube.com/watch?v=LTGRS3AYSSM)  and rules  [https://www.youtube.com/watch?v=R2beaSQ9-NM](https://www.youtube.com/watch?v=R2beaSQ9-NM) 
- 
-_[2]_ See  [https://www.eclipse.org/henshin/](https://www.eclipse.org/henshin/) 
+
  
 _[3]_ See e.g.  [https://en.wikipedia.org/wiki/Leader_election](https://en.wikipedia.org/wiki/Leader_election) 
  
